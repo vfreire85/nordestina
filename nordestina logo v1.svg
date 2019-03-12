@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300mm"
+   height="100mm"
+   viewBox="0 0 1062.9921 354.33071"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="nordestina logo v1.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="261.45029"
+     inkscape:cy="266.20138"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="711"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-698.0315)">
+    <g
+       id="g4508"
+       transform="translate(-6,0)">
+      <rect
+         y="755.37738"
+         x="798.08142"
+         height="255.1181"
+         width="223.22835"
+         id="rect4504"
+         style="opacity:1;fill:#2d85c3;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4506"
+         d="m 800.41102,753.53701 -162.81934,255.52959 162.70776,1.4878 z"
+         style="fill:#2d85c3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00762904px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#ffe432;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4512"
+       sodipodi:sides="9"
+       sodipodi:cx="842.46722"
+       sodipodi:cy="912.96118"
+       sodipodi:r1="176.41556"
+       sodipodi:r2="65.273758"
+       sodipodi:arg1="0.51488478"
+       sodipodi:arg2="0.86395063"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 996.01041,999.8343 -111.1519,-37.23803 19.38865,115.60923 -61.21115,-99.97304 -59.45961,101.02464 17.37097,-115.92961 -110.48607,39.16941 87.82503,-77.64133 -109.81486,-41.01355 117.18477,-3.02389 -57.76006,-102.00584 91.71247,73.00849 21.32131,-115.26846 23.32687,114.87938 90.42621,-74.59568 -55.97362,102.99694 117.21968,0.98123 -109.08344,42.92108 z"
+       inkscape:transform-center-x="-0.051217075"
+       inkscape:transform-center-y="-1.8792171"
+       transform="matrix(0.3568817,0.00472039,-0.00478214,0.36211243,603.96361,548.97379)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4514"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:105px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#0b32b1;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(52,692.0315)"><flowRegion
+         id="flowRegion4516"><rect
+           id="rect4518"
+           width="579.82751"
+           height="127.27924"
+           x="26.263968"
+           y="111.8941"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:105px;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';fill:#0b32b1;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4522">Nordestina</flowPara></flowRoot>  </g>
+</svg>
